@@ -19,7 +19,6 @@ Some key highlights:
 
 🔗 [Check out my portfolio](https://github.com/Xiaoha-cloud)
 
----
 
 ## 🛠️ Languages and Tools
 
@@ -79,8 +78,9 @@ Some key highlights:
 - Deployed on **AWS Lambda** and included a recommendation engine based on collaborative filtering.
 
 ### Hackathon Project: Parking Management System
-- Secured 3rd place in the national **Bentley iTwin Good Championship** with my teammates @Levoyage and @nanacode4 .
-- Developed a smart urban parking management system using **iTwin** platform, demonstrating my problem-solving and software engineering skills under tight deadlines.
+- Secured 3rd place in the national **Bentley iTwin Good Championship** with my teammates [@Levoyage](https://github.com/Levoyage) and [@nanacode4](https://github.com/nanacode4).
+- Developed a smart urban parking management system using the **iTwin** platform, showcasing our collaborative problem-solving and software engineering skills under tight deadlines.
+
 
 ---
 
