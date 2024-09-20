@@ -79,7 +79,7 @@ Some key highlights:
 - Deployed on **AWS Lambda** and included a recommendation engine based on collaborative filtering.
 
 ### Hackathon Project: Parking Management System
-- Secured 3rd place in the national **Bentley iTwin Good Championship**.
+- Secured 3rd place in the national **Bentley iTwin Good Championship** with my teammates @Levoyage and @nanacode4 .
 - Developed a smart urban parking management system using **iTwin** platform, demonstrating my problem-solving and software engineering skills under tight deadlines.
 
 ---
