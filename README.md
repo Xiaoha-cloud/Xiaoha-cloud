@@ -17,8 +17,6 @@ Some key highlights:
 - Strong advocate of data science, having worked on NLP models, machine learning algorithms, and data processing techniques.
 - Passionate about improving user experiences through intelligent and efficient software solutions.
 
-🔗 [Check out my portfolio](https://github.com/Xiaoha-cloud)
-
 
 ## 🛠️ Languages and Tools
 
@@ -97,4 +95,5 @@ Some key highlights:
 - Email: [infojemi@gmail.com](mailto:infojemi@gmail.com)
 - GitHub: [github.com/Xiaoha-cloud](https://github.com/Xiaoha-cloud)
 - LinkedIn: [linkedin.com/in/xiaoha-lin]([https://linkedin.com/in/xiaoha-lin](https://www.linkedin.com/in/jiahong-lin-8b74462b0/))
+- MyBlog:[https://xiaoha-cloud.github.io/](https://xiaoha-cloud.github.io/)
 
