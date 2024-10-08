@@ -94,5 +94,5 @@ Some key highlights:
 
 - Email: [infojemi@gmail.com](mailto:infojemi@gmail.com)
 - GitHub: [github.com/Xiaoha-cloud](https://github.com/Xiaoha-cloud)
-- LinkedIn: [linkedin.com/in/xiaoha-lin]([https://linkedin.com/in/xiaoha-lin](https://www.linkedin.com/in/jiahong-lin-8b74462b0/))
+- LinkedIn: [linkedin.com/in/xiaoha-lin](https://www.linkedin.com/in/jiahong-lin-8b74462b0/)
 
