@@ -92,7 +92,7 @@ Some key highlights:
 
 ## 📫 Contact Me
 
-- Email: [infojemi@gmail.com](mailto:infojemi@gmail.com)
+- Email: [infojemi@gmail.com](mailto:infojemi4@gmail.com)
 - GitHub: [github.com/Xiaoha-cloud](https://github.com/Xiaoha-cloud)
 - LinkedIn: [linkedin.com/in/xiaoha-lin](https://www.linkedin.com/in/jiahong-lin-8b74462b0/?trk=public_profile-settings_edit-profile-content&originalSubdomain=ie)
 
