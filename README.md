@@ -75,6 +75,13 @@ Some key highlights:
 - Integrated MySQL and Redis for efficient data management, using Git for version control.
 - Deployed on **AWS Lambda** and included a recommendation engine based on collaborative filtering.
 
+#### Project Repositories
+- **Frontend (React Native)**: [View on GitHub](https://github.com/Simple-Recipes/frontend-React-Native/tree/dev?tab=readme-ov-file)
+- **Backend (Spring Boot)**: [View on GitHub](https://github.com/Simple-Recipes/backend)
+
+> "Due to budget constraints as a student, I am unable to keep the AWS instance running continuously. Therefore, the project demo is available via screenshots and a demo video."
+
+
 ### Hackathon Project: Parking Management System
 - Secured 3rd place in the national **Bentley iTwin Good Championship** with my teammates [@Levoyage](https://github.com/Levoyage) and [@nanacode4](https://github.com/nanacode4).
 - Developed a smart urban parking management system using the **iTwin** platform, showcasing our collaborative problem-solving and software engineering skills under tight deadlines.
