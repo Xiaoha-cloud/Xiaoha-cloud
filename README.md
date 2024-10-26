@@ -12,12 +12,6 @@
 I am a recent Master's graduate in Software Development with a strong foundation in software engineering and problem-solving. 
 I thrive in multidisciplinary environments and enjoy solving complex problems using innovative solutions. 
 
-Some key highlights:
-- Proficient in Java, Python, and SQL with hands-on experience in web and mobile app development.
-- Strong advocate of data science, having worked on NLP models, machine learning algorithms, and data processing techniques.
-- Passionate about improving user experiences through intelligent and efficient software solutions.
-
-
 ## 🛠️ Languages and Tools
 
 <p align="left">
