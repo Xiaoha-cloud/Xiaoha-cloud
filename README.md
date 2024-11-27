@@ -9,8 +9,14 @@
 
 ## 🧑‍💻 About Me
 
-I am a recent Master's graduate in Software Development with a strong foundation in software engineering and problem-solving. 
-I thrive in multidisciplinary environments and enjoy solving complex problems using innovative solutions. 
+I am a recent Master's graduate in Software Development with a strong foundation in software engineering and problem-solving.  
+I am deeply passionate about creating innovative software solutions and continuously improving my skills to tackle real-world challenges.  
+
+My ultimate goal is to become a proficient **Software Development Engineer**, contributing to impactful projects that make a difference in people's lives.  
+I thrive in multidisciplinary environments and enjoy collaborating with teams to deliver high-quality, scalable, and efficient software applications.
+
+
+---
 
 ## 🛠️ Languages and Tools
 
@@ -69,17 +75,27 @@ I thrive in multidisciplinary environments and enjoy solving complex problems us
 - Integrated MySQL and Redis for efficient data management, using Git for version control.
 - Deployed on **AWS Lambda** and included a recommendation engine based on collaborative filtering.
 
+| Recipe Listings | Recipe Details |
+|-----------------|----------------|
+| ![Home Page](Screenshots/HomePage.png) | ![Recipe Details](Screenshots/RecipesDetailsPage.png) |
+
 #### Project Repositories
 - **Frontend (React Native)**: [View on GitHub](https://github.com/Simple-Recipes/frontend-React-Native/tree/dev?tab=readme-ov-file)
 - **Backend (Spring Boot)**: [View on GitHub](https://github.com/Simple-Recipes/backend)
 
 > "Due to budget constraints as a student, I am unable to keep the AWS instance running continuously. Therefore, the project demo is available via screenshots and a demo video."
 
+#### Contributors
+This project was a collaboration with [@nanacode4](https://github.com/nanacode4).
+
+---
 
 ### Hackathon Project: Parking Management System
-- Secured 3rd place in the national **Bentley iTwin Good Championship** with my teammates [@Levoyage](https://github.com/Levoyage) and [@nanacode4](https://github.com/nanacode4).
-- Developed a smart urban parking management system using the **iTwin** platform, showcasing our collaborative problem-solving and software engineering skills under tight deadlines.
+- Secured 3rd place in the national **Bentley iTwin Good Championship**.
+- Developed a smart urban parking management system using the **iTwin** platform, showcasing collaborative problem-solving and software engineering skills under tight deadlines.
 
+#### Contributors
+This project was completed with my talented teammates [@Levoyage](https://github.com/Levoyage) and [@nanacode4](https://github.com/nanacode4).
 
 ---
 
@@ -95,5 +111,4 @@ I thrive in multidisciplinary environments and enjoy solving complex problems us
 
 - Email: [infojemi@gmail.com](mailto:infojemi4@gmail.com)
 - GitHub: [github.com/Xiaoha-cloud](https://github.com/Xiaoha-cloud)
-- LinkedIn: [linkedin.com/in/xiaoha-lin](https://www.linkedin.com/in/jiahong-lin-8b74462b0/?trk=public_profile-settings_edit-profile-content&originalSubdomain=ie)
-
+- LinkedIn: [linkedin.com/in/xiaoha-lin](https://www.linkedin.com/in/jiahong-lin-8b74462b0/)
