@@ -77,7 +77,7 @@ I thrive in multidisciplinary environments and enjoy collaborating with teams to
 
 | Recipe Listings | Recipe Details |
 |-----------------|----------------|
-| ![Home Page](Screenshots/HomePage.png) | ![Recipe Details](Screenshots/RecipesDetailsPage.png) |
+| ![Home Page](HomePage.png) | ![Recipe Details](RecipesDetailsPage.png) |
 
 #### Project Repositories
 - **Frontend (React Native)**: [View on GitHub](https://github.com/Simple-Recipes/frontend-React-Native/tree/dev?tab=readme-ov-file)
