@@ -1,114 +1,90 @@
 <h1 align="center">Hi 👋, I'm Xiaoha</h1>
-<h3 align="center">A Passionate Software Developer and Data Enthusiast</h3>
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=xiaoha-cloud&label=Profile%20views&color=0e75b6&style=flat" alt="xiaoha-cloud" /> 
-</p>
-
----
-
-## 🧑‍💻 About Me
-
-I am a recent Master's graduate in Software Development with a strong foundation in software engineering and problem-solving.  
-I am deeply passionate about creating innovative software solutions and continuously improving my skills to tackle real-world challenges.  
-
-My ultimate goal is to become a proficient **Software Development Engineer**, contributing to impactful projects that make a difference in people's lives.  
-I thrive in multidisciplinary environments and enjoy collaborating with teams to deliver high-quality, scalable, and efficient software applications.
-
-
----
-
-## 🛠️ Languages and Tools
+<h3 align="center">Master's in Software Development | Building Full-Stack & Data-Driven Applications</h3>
 
 <p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=xiaoha-cloud&label=Profile%20views&color=0e75b6&style=flat" alt="xiaoha-cloud" />
 </p>
 
 ---
 
-## 🔧 Featured Projects
+## 🛠 Tech Stack
 
-### Recipe Management App
-- Developed a full-stack application with web and mobile interfaces using **React Native** and **Spring Boot**.
-- Implemented data scraping with **Python** to clean and preprocess over 1,000 missing image data points.
-- Integrated MySQL and Redis for efficient data management, using Git for version control.
-- Deployed on **AWS Lambda** and included a recommendation engine based on collaborative filtering.
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
 
-| Recipe Listings | Recipe Details |
-|-----------------|----------------|
+---
+
+## 🚀 Highlight Projects
+
+### 🅿️ Smart Parking System (iTwin Hackathon)
+A real-time urban parking app leveraging **iTwin**, **Supabase**, and **iOS**.
+- Displays available parking spaces using **3D viewer** and **live updates**
+- Integrated **ECSQL + iModel + Supabase** for cross-platform data sync
+- iOS app supports search, map, and real-time status updates
+- 🥉 3rd Place – **Bentley iTwin4Good Championship 2024** (42 teams)
+
+👉 [GitHub Repo](https://github.com/Xiaoha-cloud/parking-iTwin)
+
+---
+
+### 🍽️ Recipe Management System (Full-stack App)
+A full-featured meal planner app with recipes, inventory, and shopping lists.
+- Built with **Spring Boot + React Native**, deployed on **AWS Lambda**
+- **JWT authentication**, **Redis caching**, **MySQL RDS**, and a **recommendation engine**
+- Supports meal planning, weekly themes, and recipe recommendations
+
+📱 **App Screenshots**  
+| Home Page | Recipe Details |
+|-----------|----------------|
 | ![Home Page](HomePage.png) | ![Recipe Details](RecipesDetailsPage.png) |
 
-#### Project Repositories
-- **Frontend (React Native)**: [View on GitHub](https://github.com/Simple-Recipes/frontend-React-Native/tree/dev?tab=readme-ov-file)
-- **Backend (Spring Boot)**: [View on GitHub](https://github.com/Simple-Recipes/backend)
-
-> "Due to budget constraints as a student, I am unable to keep the AWS instance running continuously. Therefore, the project demo is available via screenshots and a demo video."
-
-#### Contributors
-This project was a collaboration with [@nanacode4](https://github.com/nanacode4).
+🔗 [Frontend (React Native)](https://github.com/Simple-Recipes/frontend-React-Native/tree/dev) | [Backend (Spring Boot)](https://github.com/Simple-Recipes/backend)
 
 ---
 
-### Hackathon Project: Parking Management System
-- Secured 3rd place in the national **Bentley iTwin Good Championship**.
-- Developed a smart urban parking management system using the **iTwin** platform, showcasing collaborative problem-solving and software engineering skills under tight deadlines.
+### 🧪 BioReactLab – Metabolic Reaction Builder
+A Django + React app to simulate and balance metabolic reactions.
+- Features **formula validation**, **RDKit integration**, and **interactive visualization**
+- Real-time molecular preview, deployed on **Netlify + Railway**
+- Built for researchers and students in systems biology
 
-#### Contributors
-This project was completed with my talented teammates [@Levoyage](https://github.com/Levoyage) and [@nanacode4](https://github.com/nanacode4).
+🌐 [Live Demo](https://shimmering-alfajores-f7f968.netlify.app)
 
 ---
 
-## 📊 GitHub Stats
+### 📈 Hotel Review Sentiment Analyzer (NLP)
+A Chinese text classification project using **LSTM** and **topic modeling**.
+- Used **Zhihu embeddings + BiLSTM** (Keras + TensorFlow)
+- Explored semantic themes with **Gensim LDA** and **pyLDAvis**
+- Achieved **87% accuracy** on a 4,000-sample dataset
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xiaoha-cloud&show_icons=true&locale=en" alt="xiaoha-cloud" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xiaoha-cloud&" alt="xiaoha-cloud" /></p>
+### 🛰️ NASA API Explorer (Backend)
+A lightweight backend proxy for NASA’s public APIs.
+- Built with **Node.js + Express**
+- Routes include APOD, ISS Tracker, and NASA image search
+- Deployed on **Vercel** with **Swagger API Docs**
+
+🔗 [GitHub Repo](https://github.com/Xiaoha-cloud/nasa-explorer-backend)
 
 ---
 
 ## 📫 Contact Me
 
-- Email: [infojemi@gmail.com](mailto:infojemi4@gmail.com)
-- GitHub: [github.com/Xiaoha-cloud](https://github.com/Xiaoha-cloud)
-- LinkedIn: [linkedin.com/in/xiaoha-lin](https://www.linkedin.com/in/jiahong-lin-8b74462b0/)
+- GitHub: [@xiaoha-cloud](https://github.com/xiaoha-cloud)
+- LinkedIn: [Jiahong Lin](https://www.linkedin.com/in/jiahong-lin-8b74462b0/)
+- Email: infojemi@gmail.com
