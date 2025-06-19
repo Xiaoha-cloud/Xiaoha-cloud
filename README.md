@@ -73,16 +73,6 @@ A Chinese text classification project using **LSTM** and **topic modeling**.
 
 ---
 
-### 🛰️ NASA API Explorer (Backend)
-A lightweight backend proxy for NASA’s public APIs.
-- Built with **Node.js + Express**
-- Routes include APOD, ISS Tracker, and NASA image search
-- Deployed on **Vercel** with **Swagger API Docs**
-
-🔗 [GitHub Repo](https://github.com/Xiaoha-cloud/nasa-explorer-backend)
-
----
-
 ## 📫 Contact Me
 
 - GitHub: [@xiaoha-cloud](https://github.com/xiaoha-cloud)
