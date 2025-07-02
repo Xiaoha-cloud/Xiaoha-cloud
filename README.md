@@ -29,6 +29,25 @@
 
 ## 🚀 Highlight Projects
 
+### 🛰️ NASA Explorer – Space Data Visualization Platform
+An interactive web application visualizing space data from NASA's Open APIs.
+
+- Built with **React + Node.js**, styled with **Tailwind + shadcn/ui**
+- Features **APOD**, **Mars Rover Photos**, **Near Earth Objects**, and **NASA Media Search**
+- Includes **interactive charts**, **mobile responsiveness**, and **real-time API integration**
+- Demonstrates **smart search**, **data analysis**, and **predictive loading** with modern UI/UX
+
+🌐 [Live Frontend](https://nasa-project-75ovjnmyz-blairjade183s-projects.vercel.app/) | 🔌 [Backend API](https://nasa-project-vy99.onrender.com/api)
+
+📸 **App Highlights**  
+| Dashboard | APOD | NEO Data |
+|-----------|------|----------|
+| ![Dashboard](https://github.com/xiaoha-cloud/nasa-project/blob/main/docs/screenshots/homepage-dashboard.png?raw=true) | ![APOD](https://github.com/xiaoha-cloud/nasa-project/blob/main/docs/screenshots/apod-page.png?raw=true) | ![NEO](https://github.com/xiaoha-cloud/nasa-project/blob/main/docs/screenshots/neo-dashboard.png?raw=true) |
+
+🔗 [GitHub Repo](https://github.com/xiaoha-cloud/nasa-project)
+
+---
+
 ### 🅿️ Smart Parking System (iTwin Hackathon)
 A real-time urban parking app leveraging **iTwin**, **Supabase**, and **iOS**.
 - Displays available parking spaces using **3D viewer** and **live updates**
