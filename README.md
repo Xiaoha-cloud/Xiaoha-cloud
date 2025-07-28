@@ -53,6 +53,7 @@ A real-time urban parking app leveraging **iTwin**, **Supabase**, and **iOS**.
 - Displays available parking spaces using **3D viewer** and **live updates**
 - Integrated **ECSQL + iModel + Supabase** for cross-platform data sync
 - iOS app supports search, map, and real-time status updates
+- Cooperate with @nanacode4 and @Levoyage
 - 🥉 3rd Place – **Bentley iTwin4Good Championship 2024** (42 teams)
 
 👉 [GitHub Repo](https://github.com/Xiaoha-cloud/parking-iTwin)
